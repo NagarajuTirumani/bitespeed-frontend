@@ -5,7 +5,7 @@
 A simple and extensible frontend chatbot flow builder application using next.js and tailwind css.
 It allows you to connecting multiple messages together to determine their order of execution.
 
-Website is hosted at vercel platform [https://bitespeed-task-seven.vercel.app/](https://bitespeed-task-seven.vercel.app/)
+Website is hosted at vercel platform [https://bitespeed-frontend-lyart.vercel.app/](https://bitespeed-frontend-lyart.vercel.app/)
 
 ## Prerequisites
 
